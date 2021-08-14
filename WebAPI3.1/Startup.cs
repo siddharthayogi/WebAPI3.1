@@ -43,7 +43,7 @@ namespace WebAPI3._1
             //Register AutoMapper
             services.AddAutoMapper(typeof(MappingProfile));
 
-            //
+            //Register UnitOfWork
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             //
