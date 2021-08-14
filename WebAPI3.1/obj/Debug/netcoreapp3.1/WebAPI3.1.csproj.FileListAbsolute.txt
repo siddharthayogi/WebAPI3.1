@@ -1,0 +1,7 @@
+D:\Siddhartha\Project\WebAPI3.1\WebAPI3.1\obj\Debug\netcoreapp3.1\WebAPI3.1.csproj.AssemblyReference.cache
+D:\Siddhartha\Project\WebAPI3.1\WebAPI3.1\obj\Debug\netcoreapp3.1\WebAPI3.1.AssemblyInfoInputs.cache
+D:\Siddhartha\Project\WebAPI3.1\WebAPI3.1\obj\Debug\netcoreapp3.1\WebAPI3.1.AssemblyInfo.cs
+D:\Siddhartha\Project\WebAPI3.1\WebAPI3.1\obj\Debug\netcoreapp3.1\WebAPI3.1.csproj.CoreCompileInputs.cache
+D:\Siddhartha\Project\WebAPI3.1\WebAPI3.1\obj\Debug\netcoreapp3.1\WebAPI3.1.MvcApplicationPartsAssemblyInfo.cache
+D:\Siddhartha\Project\WebAPI3.1\WebAPI3.1\obj\Debug\netcoreapp3.1\WebAPI3.1.RazorAssemblyInfo.cache
+D:\Siddhartha\Project\WebAPI3.1\WebAPI3.1\obj\Debug\netcoreapp3.1\WebAPI3.1.RazorAssemblyInfo.cs

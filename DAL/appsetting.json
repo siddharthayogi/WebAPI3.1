@@ -1,0 +1,14 @@
+{
+  "ConnectionStrings": {
+    "AppConnection": "Data Source=.\\SQLEXPRESS; Initial Catalog=PRACTICE_DB; User Id=sa; Password=India@123; MultipleActiveResultSets=true;",
+    "ProviderName": "MySql.Data.SqlClient"
+  },
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ]
+}
